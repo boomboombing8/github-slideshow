@@ -1,0 +1,12 @@
+function draw ()  {
+//background
+background ("black");
+stroke ("white");
+ellipse (randomNumber(0, 400), (randomNumber (0, 400), 5, 5);
+ellipse (randomNumber(0, 400), (randomNumber (0, 400), 5, 5);
+ellipse (randomNumber(0, 400), (randomNumber (0, 400), 5, 5);
+ellipse (randomNumber(0, 400), (randomNumber (0, 400), 5, 5);
+ellipse (randomNumber(0, 400), (randomNumber (0, 400), 5, 5);
+ellipse (randomNumber(0, 400), (randomNumber (0, 400), 5, 5);
+ellipse (randomNumber(0, 400), (randomNumber (0, 400), 5, 5);
+}
